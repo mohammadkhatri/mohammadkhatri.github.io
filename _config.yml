@@ -10,8 +10,8 @@ relative_permalinks: true
 title:            Mohammadhussain Khatri
 tagline:          'Android Developer'
 description:      'Software engineer currently targetting mobile app developement with android.'
-url:              ''
-baseurl:          mohammadkhatri.github.io/
+url:              'https://mohammadkhatri.github.io'
+baseurl:          /
 
 author:
   name:           'Mohammadhussain Khatri'
