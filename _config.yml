@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /blog/:categories/:year/:month/:day/:title/
+relative_permalinks: true
+
+# Setup
+title:            Mohammadhussain Khatri
+tagline:          'Android Developer'
+description:      'Software engineer currently targetting mobile app developement with android.'
+url:              ''
+baseurl:          mohammadkhatri.github.io/
+
+author:
+  name:           'Mohammadhussain Khatri'
+  url:            https://twitter.com/mohammadkhatri
+
+paginate:         5
+paginate_path: "/blog/page:num/"
+
+github:
+  profile:           https://github.com/mohammadkhatri

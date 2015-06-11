@@ -1,0 +1,39 @@
+{
+   "profiles":[
+      {
+         "name":"Mohammadhussain stackoverflow",
+         "url":"https://stackoverflow.com/users/1602333/mohammadhussain-khatri",
+         "icon":"fa-stack-overflow"
+      },
+      {
+         "name":"@mohammadkhatri Github",
+         "url":"https://github.com/mohammadkhatri",
+         "icon":"fa-github"
+      },
+      {
+         "name":"Mohammadhussain linkedin",
+         "url":"https://in.linkedin.com/pub/mohammadhussain-khatri/3a/622/444",
+         "icon":"fa-linkedin"
+      },
+      {
+         "name":"Mohammadhussain facebook",
+         "url":"https://facebook.com/mgk.hussain",
+         "icon":"fa-facebook"     
+      },
+      {
+         "name":"Mohammadhussain g-plus",
+         "url":"https://plus.google.com/u/0/109885201279715194956",
+         "icon":"fa-google-plus"
+      },
+      {
+         "name":"@mohammadkhatri Twitter",
+         "url":"https://twitter.com/mohammadkhatri",
+         "icon":"fa-twitter"
+      },
+      {
+         "name":"@mohammadkhatri Gmail",
+         "url":"mailto:mohammadkhatri@gmail.com?Subject=Hello - from My Site",
+         "icon":"fa-envelope-o"
+      }
+   ]
+}
