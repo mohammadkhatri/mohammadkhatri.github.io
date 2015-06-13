@@ -130,7 +130,7 @@ a.sidebar-nav-item:focus {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 38rem;
+    /*max-width: 38rem;*/
     margin-left: 20rem;
     margin-right: 2rem;
   }
@@ -214,6 +214,39 @@ padding: 4px;
   -webkit-border-radius: 25%;
   -moz-border-radius: 25%;
   -webkit-border-radius: 25%;
+}
+
+.sidebar-avatar
+{
+  text-align: center;
+}
+
+.sidebar-avatar img
+{
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -webkit-border-radius: 50%;
+  border: 5px solid #fff;
+  width: 25%;
+  height: 25%;
+}
+
+@media (min-width: 48em) {
+  .sidebar-avatar img{
+    
+    width: 40%;
+    height: 40%;
+  }
+}
+
+@media (min-width: 64em) {
+  .sidebar-avatar img{
+    width: 50%;
+    height: 50%;
+  }
 }
 
 /*
@@ -308,10 +341,10 @@ padding: 4px;
 
 /* Custom */
 .theme-base-0h .sidebar {
-  background-color: #10660E;
+  background-color: #0041a3;
 }
 .theme-base-0h .content a,
 .theme-base-0h .related-posts li a:hover {
-  color: #10660E;
+  color: #0041a3;
 }
 

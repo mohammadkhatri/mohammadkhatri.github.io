@@ -5,28 +5,48 @@ description:   'about page'
 
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hello,<br/>
+   Happy to see you here.<br/>
+   I am Mohammadhussain Khatri , A software engineer , An android enthusiast , A techy , A brother , A son and soon becoming a husband.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+ > Info
 
-There are currently two themes built on Poole:
+ I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I love my family which is of 5 people. I do everyday travel to Vadodara for work. I like travelling and street photography.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+ > My Work
+ 
+ * Currently , I work as a full time android developer and I love that.
+ * I Started my career with creating web apps using Asp.net and games using Unity3D.Finally I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
+ * Now I am developing android apps [native and using phonegap] and now trying hands on ionic framework at Vadodara.
+ * Happy to completing 2 years in software industry.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+ > Skills
 
-## Setup
+### Primary
 
-Some fun facts about the setup of this project include:
+*	ANDROID
+*	Core JAVA
+*	HTML
+*	CSS
+*	JAVSCRIPT
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Secondary
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+*	Core PHP
+*	Mysql
+*	Asp.Net
+*	MS_Sql_server
+
+
+> Interests
+
+* I like to learn new things everyday and of cource everyone should do that.
+* Waching movies , Listening music etc. which each human being likes.
+* Travelling and photography
+* In near future , I'll join swimming acadamy.
+
+> Intersted in my profile ?
+
+Download CV
 
 Thanks for reading!
