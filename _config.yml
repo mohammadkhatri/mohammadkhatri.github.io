@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Mohammadhussain Khatri
 tagline:          'Android Developer'
-description:      'Software engineer currently targetting mobile app developement with android.'
+description:      'Software engineer and currently doing mobile app developement with android.'
 url:              'https://mohammadkhatri.github.io'
 baseurl:          /
 
