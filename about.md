@@ -7,31 +7,26 @@ description:   'about page'
 
 Hello,<br/>
    Happy to see you here.<br/>
-   I am Mohammadhussain Khatri , A software engineer , An android enthusiast , A techy , A brother , A son and soon becoming a husband.
+   I am Mohammadhussain Khatri , A software engineer , An android enthusiast , A techie , A brother , A son and soon becoming a husband.
 
  > Info
 
- I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I love my family which is of 5 people. I do everyday travel to Vadodara for work. I like travelling and street photography.
+ I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I love my family which is of 5 people. I like travelling and street photography.
 
  > My Work
  
  * Currently , I work as a full time android developer and I love that.
- * I Started my career with creating web apps using Asp.net and games using Unity3D.Finally I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
+ * I Started my career with creating web apps using Asp.net. After that I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
  * Now I am developing android apps [native and using phonegap] and now trying hands on ionic framework at Vadodara.
  * Happy to completing 2 years in software industry.
 
  > Skills
-
-### Primary
 
 *	ANDROID
 *	Core JAVA
 *	HTML
 *	CSS
 *	JAVSCRIPT
-
-### Secondary
-
 *	Core PHP
 *	Mysql
 *	Asp.Net
@@ -40,10 +35,9 @@ Hello,<br/>
 
 > Interests
 
-* I like to learn new things everyday and of cource everyone should do that.
-* Waching movies , Listening music etc. which each human being likes.
+* I like to learn new things everyday.
+* Waching movies , Listening music and in future want to learn playing guitar.
 * Travelling and photography
-* In near future , I'll join swimming acadamy.
 
 > Intersted in my profile ?
 
