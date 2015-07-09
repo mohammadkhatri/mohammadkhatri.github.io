@@ -219,6 +219,11 @@ padding: 4px;
 .sidebar-avatar
 {
   text-align: center;
+}
+
+.sidebar-avatar
+{
+  text-align: center;
   overflow: :hidden;
 }
 

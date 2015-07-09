@@ -1,0 +1,23 @@
+.fa {
+    display: inline-block;
+    overflow: hidden;
+    color: transparent;
+    font-family: sans-serif;
+    width: 14px;
+    height: 14px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.fa-stack-overflow { background-image: url('../images/stack-overflow_ffffff_14.png'); }
+.fa-github { background-image: url('../images/github_ffffff_14.png'); }
+.fa-linkedin { background-image: url('../images/linkedin_ffffff_14.png'); }
+.fa-facebook { background-image: url('../images/facebook_ffffff_14.png'); }
+.fa-google-plus { background-image: url('../images/google-plus_ffffff_14.png'); }
+.fa-twitter { background-image: url('../images/twitter_ffffff_14.png'); }
+.fa-envelope-o { background-image: url('../images/envelope-o_ffffff_14.png'); }
+
+.fa-fw {
+  width: 1.28571429em;
+  text-align: center;
+}
