@@ -221,6 +221,12 @@ padding: 4px;
   text-align: center;
 }
 
+.sidebar-avatar
+{
+  text-align: center;
+  overflow: :hidden;
+}
+
 .sidebar-avatar img
 {
   border-radius: 50%;
@@ -229,7 +235,10 @@ padding: 4px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -webkit-border-radius: 50%;
-  border: 5px solid #fff;
+  -webkit-box-shadow: 0px 0px 40px 0px #fff;
+  -moz-box-shadow: 0px 0px 40px 0px #fff;
+  box-shadow: 0px 0px 40px 0px #fff;
+  /*border: 5px solid #fff;*/
   width: 25%;
   height: 25%;
 }
