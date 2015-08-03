@@ -1,17 +1,19 @@
 ---
 layout: page
 title: About
-description:   'about page'
-
+description:   'about me'
+sitemap:
+    priority: 1
+    changefreq: 'daily'
+    lastmod: 2015-08-03T12:49:30-05:00
 ---
 
 Hello,<br/>
-   Happy to see you here.<br/>
    I am Mohammadhussain Khatri , A software engineer , An android enthusiast , A techie , A brother , A son and soon becoming a husband.
 
  > Info
 
- I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I love my family which is of 5 people. I like travelling and street photography.
+ I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I have a family of 5 and I love them a lot. Being a software engineer , I create software applications for living.
 
  > My Work
  

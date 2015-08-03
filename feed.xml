@@ -1,5 +1,9 @@
 ---
 layout: null
+sitemap:
+    priority: 0.9
+    changefreq: 'daily'
+    lastmod: 2015-08-03T12:49:30-05:00
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
@@ -21,7 +25,7 @@ layout: null
    <link href="{{ site.url }}{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <id>{{ site.url }}{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
+   <content type="html">{{ post.content | truncatewords:15 | xml_escape }}</content>
  </entry>
  {% endfor %}
 

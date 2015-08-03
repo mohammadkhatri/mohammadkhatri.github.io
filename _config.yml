@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Mohammadhussain Khatri
-tagline:          'Android Developer'
-description:      'Software engineer and currently doing mobile app developement with android.'
+tagline:          'Android + Web Developer'
+description:      'Software engineer and currently doing mobile apps developement with android.'
 url:              'https://mohammadkhatri.github.io'
 baseurl:          /
 
@@ -17,8 +17,14 @@ author:
   name:           'Mohammadhussain Khatri'
   url:            https://twitter.com/mohammadkhatri
 
-paginate:         5
+paginate:         10
 paginate_path: "/blog/page:num/"
 
 github:
   profile:           https://github.com/mohammadkhatri
+
+
+# Sass
+sass:
+  sass_dir: public/css/
+  style: :compressed

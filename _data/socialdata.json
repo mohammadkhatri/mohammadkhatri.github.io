@@ -26,14 +26,18 @@
          "icon":"fa-google-plus"
       },
       {
-         "name":"@mohammadkhatri Twitter",
-         "url":"https://twitter.com/mohammadkhatri",
-         "icon":"fa-twitter"
-      },
-      {
          "name":"@mohammadkhatri Gmail",
          "url":"mailto:mohammadkhatri@gmail.com?Subject=Hello - from My Site",
          "icon":"fa-envelope-o"
+      }
+   ],
+   "profiles_2":[
+      
+    
+      {
+         "name":"@mohammadkhatri Twitter",
+         "url":"https://twitter.com/mohammadkhatri",
+         "icon":"fa-twitter"
       }
    ]
 }
