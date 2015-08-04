@@ -128,4 +128,6 @@ mAdView.loadAd(adRequest);
 
 * What this method **setupAdAtBottom** is doing is inflating ad_layout and add it to bottom of **android.R.id.content**.
 
-* So bow call setupAdAtBottom() after **setcontentView** of your activity. And Hulla... You are done. A single line will do the rest work.
+* So now call setupAdAtBottom() after **setcontentView** of your activity. And Hulla... You are done. A single line will do the rest work and it will not affect your original layout.
+
+* <a href="https://github.com/mohammadkhatri/AdMobApp" target="_blank">Download This demo project</a> for better understanding. 
