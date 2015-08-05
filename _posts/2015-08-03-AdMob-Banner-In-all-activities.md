@@ -43,7 +43,7 @@ mAdView.loadAd(adRequest);
 
 <p>1) create banner in all activity xml layouts and use above steps for all activities. <b>Doesn't seems impressive. huhhh...</b></p>
 
-<p>1) Have some solution which bring banner working with less efforts. Let's try with <b>android.R.id.content</b></p>
+<p>2) Have some solution which bring banner working with less efforts. Let's try with <b>android.R.id.content</b></p>
 <p>It's a root view [FrameLayout] of all activities in android app. So we can add banner to this view.</p>
 
 * create ad layout file like this. [ad_layout.xml]
