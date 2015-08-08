@@ -133,6 +133,8 @@ a.sidebar-nav-item:focus {
     /*max-width: 38rem;*/
     margin-left: 17rem;
     margin-right: 1rem;
+    padding-left:    1rem;
+    padding-right: 1rem;
   }
 }
 
@@ -149,6 +151,156 @@ a.sidebar-nav-item:focus {
     margin-left: 19rem;
     margin-right: 3rem;
   }
+}
+
+/*
+ * Projects layout
+ *
+ * 
+ */
+
+.project_column
+{
+position:  absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  
+  overflow:hidden;
+  
+}
+
+.box{
+  position: relative;
+  float: left;
+  background-color:black;
+  -webkit-box-shadow: 0px 0px 10px 0px rgba(0,0,0,1);
+  -moz-box-shadow: 0px 0px 10px 0px rgba(0,0,0,1);
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,1);
+     /* desired width */
+}
+
+@media (min-width: 48em) {
+ .box
+ {
+
+  width : 31%;
+  padding-bottom : 31%;
+  margin : 1%;
+
+ }
+}
+
+@media (max-width: 47em) {
+.box
+{
+
+  width : 48%;
+  padding-bottom : 48%;
+  margin : 1%;
+
+}
+}
+
+@media (max-width: 35em) {
+.box
+{
+
+  width : 90%;
+  padding-bottom : 90%;
+  margin : 5%;
+  
+}
+}
+
+@media (min-width: 64em) {
+  .box
+ {
+  
+  width : 31%;
+  padding-bottom : 31%;
+  margin : 1%;
+  
+ }
+}
+
+.titleBox {
+   position: absolute;
+   bottom: 0;
+   left: 0;
+   right: 0;
+   background: rgba(0, 65, 163, 0.8);
+   color: #FFF;
+   padding: 10px;
+   text-align: center;
+   text-transform: uppercase;
+   -webkit-transition: all 0.3s ease-out;
+   -moz-transition: all 0.3s ease-out;
+   -o-transition: all 0.3s ease-out;
+   transition: all 0.3s ease-out;
+}
+
+/*
+@media (min-width: 48em) {
+  .project_column
+ {
+
+  width : 31%;
+  height: 250px;
+  margin : 1%;
+
+ }
+}
+
+@media (max-width: 47em) {
+  .project_column
+{
+
+  width : 48%;
+  height: 350px;
+  margin : 1%;
+
+}
+}
+
+@media (max-width: 35em) {
+  .project_column
+{
+
+  width : 90%;
+  height: 350px;
+  margin : 5%;
+  
+}
+}
+
+@media (min-width: 64em) {
+  .project_column
+ {
+  
+  width : 31%;
+  height: 450px;
+  margin : 1%;
+  
+ }
+}
+*/
+
+/*VERTPAN*/
+.vertpan img {
+  margin-top: 0px;
+  width : 100%;
+  -webkit-transition: margin 1s ease;
+     -moz-transition: margin 1s ease;
+       -o-transition: margin 1s ease;
+      -ms-transition: margin 1s ease;
+          transition: margin 1s ease;
+  z-index:-1;
+}
+ 
+.vertpan img:hover {
+  margin-top: -100px;
 }
 
 
