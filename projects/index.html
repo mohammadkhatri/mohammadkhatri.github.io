@@ -1,0 +1,20 @@
+---
+layout: page
+title: My Work
+sitemap:
+    priority: 1
+    changefreq: 'weekly'
+    lastmod: 2015-08-07T12:49:30-05:00
+---
+
+<div>
+	{% for project in site.data.projects.projects %}
+	  <div class='box'>
+		  <div class="vertpan project_column">
+  			<img src="{{ site.url }}{{ site.baseurl }}projects/images/{{ project.coverimage }}" alt="{{ project.covertitle }}" title="{{ project.name }}">
+  			<div class="titleBox">{{ project.name }}</div>
+		  </div>
+ 	  </div>       
+    {% endfor %}    
+		
+</div>
