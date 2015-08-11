@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-description:   'about me'
+title: About Me
+description:  about me
 sitemap:
     priority: 1
     changefreq: 'daily'
@@ -9,7 +9,7 @@ sitemap:
 ---
 
 Hello,<br/>
-   I am Mohammadhussain Khatri , A software engineer , An android enthusiast , A techie , A brother , A son and soon becoming a husband.
+   I am Mohammadhussain Khatri [M.Sc (I.T)], A software engineer , An android enthusiast , A techie , A brother , A son and soon becoming a husband.
 
  > Info
 
@@ -18,8 +18,8 @@ Hello,<br/>
  > My Work
  
  * Currently , I work as a full time android developer and I love that.
- * I Started my career with creating web apps using Asp.net. After that I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
- * Now I am developing android apps [native and using phonegap] and now trying hands on ionic framework at Vadodara.
+ * I Started my career with creating web apps using Asp.net. Soon I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
+ * Now I am developing android apps mostly native and with phonegap with some extent at Vadodara.
  * Happy to completing 2 years in software industry.
 
  > Skills

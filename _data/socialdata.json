@@ -32,7 +32,11 @@
       }
    ],
    "profiles_2":[
-      
+      {
+         "name":"@mohammadkhatri Gmail",
+         "url":"mailto:mohammadkhatri@gmail.com?Subject=Hello - from My Site",
+         "icon":"fa-envelope-o"
+      },
     
       {
          "name":"@mohammadkhatri Twitter",

@@ -10,7 +10,7 @@ published: true
 ---
 
 It's sometimes required to redirect to differnet urls based on device type. 
-<p>i.e. In sharing message on some social network or any other media like whatsapp , Email or any other chat.</p>
+<br/>i.e. In sharing message on some social network or any other media like whatsapp , Email or any other chat.<br/>
 Here is a small script which identifies users device by inspecting useragent of their browsers.
 
 ```PHP

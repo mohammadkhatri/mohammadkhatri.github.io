@@ -4,38 +4,57 @@ title: Home
 sitemap:
     priority: 1
     changefreq: 'daily'
-    lastmod: 2015-08-03T12:49:30-05:00
+    lastmod: 2015-08-11T12:49:30-05:00
 ---
+<h1>Who am I? </h1>
+I am Mohammadhussain Khatri [M.Sc (I.T)].Currently, I am working for a software firm in Vadodara. Being in a software industry , I like to explore new things everyday. I currently work as an android developer.
+<br/>
+<a href="about.html">View more about me</a>
+<br/>
+<br/>
 
+<h1>Recent blog posts I have written</h1>
+<br/>
 <div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h3 class="post-title">
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h3>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% for post in site.posts limit:3 %}
+        
+            
+                <div class="post">
+                  <h3 class="post-title">
+                  <a href="{{ post.url }}">
+                  {{ post.title }}
+                  </a>
+                  </h3>
 
-    {{ post.content | truncatewords:15 }}
-  </div>
-  {% endfor %}
+                  <span class="post-date">{{ post.date | date_to_string }}</span>
+
+                  {{ post.content | truncatewords:15 }}
+                </div>
+            
+            
+        
+        
+    {% endfor %}
+<br/>
+<a href="blog/">View More Posts</a>
+</div>
+<br/>
+<br/>
+<h1>Recent projects I have worked on</h1>
+<br/>
+<div>
+  {% for project in site.data.projects.projects %}
+   {% if forloop.index < 4 %}
+    <div class='box'>
+      <div class="vertpan project_column">
+        <img src="{{ site.url }}{{ site.baseurl }}projects/images/{{ project.coverimage }}" alt="{{ project.covertitle }}" title="{{ project.name }}">
+        <div class="titleBox">{{ project.name }}</div>
+      </div>
+    </div>       
+   {% endif %}
+  {% endfor %}    
+<br/>
+<a href="projects/">View More Projects</a>
 </div>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}blog/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}blog/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>

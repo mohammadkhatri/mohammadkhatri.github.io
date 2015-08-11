@@ -13,10 +13,8 @@ layout: default
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'mohammadkhatri';
     var disqus_title = '{{ page.title }}';
-    // var disqus_developer = 1; // Comment out when the site is live
-   
-    var disqus_identifier = '{{ site.url }}{{ page.url }}';
-    
+    var disqus_developer = 1; // Comment out when the site is live
+     var disqus_identifier = '{{ site.url }}{{ page.url }}';
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
@@ -41,4 +39,7 @@ layout: default
     {% endfor %}
   </ul>
 </div>
+
+
+
 

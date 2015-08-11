@@ -9,10 +9,8 @@ sitemap:
 published: true
 ---
 
-Creating [Admob Banner](https://developers.google.com/admob/android/banner?hl=en) is very easy to implement in android app.
-
+Creating [Admob Banner](https://developers.google.com/admob/android/banner?hl=en) is very easy to implement in android app.<br/>
 1) create app in [Admob Console](https://apps.admob.com) and Get Admob unit id of banner.
-
 2) use following in your layout xml file
 
 ```xml
@@ -41,10 +39,10 @@ mAdView.loadAd(adRequest);
 
 * possibe solutions
 
-<p>1) create banner in all activity xml layouts and use above steps for all activities. <b>Doesn't seems impressive. huhhh...</b></p>
+<br/>1) create banner in all activity xml layouts and use above steps for all activities. <b>Doesn't seems impressive. huhhh...</b>
 
-<p>2) Have some solution which bring banner working with less efforts. Let's try with <b>android.R.id.content</b></p>
-<p>It's a root view [FrameLayout] of all activities in android app. So we can add banner to this view.</p>
+<br/>2) Have some solution which bring banner working with less efforts. Let's try with <b>android.R.id.content</b>
+<br/>It's a root view [FrameLayout] of all activities in android app. So we can add banner to this view.
 
 * create ad layout file like this. [ad_layout.xml]
 
