@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Mohammadhussain Khatri
 tagline:          'Android + Web Developer'
 description:      'Software engineer and currently doing mobile apps developement with android.'
-url:              'http://mohammadkhatri.github.io'
+url:              ''
 baseurl:          /
 
 author:
