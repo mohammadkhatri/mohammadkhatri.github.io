@@ -20,7 +20,7 @@ Hello,<br/>
  * Currently , I work as a full time android developer and I love that.
  * I Started my career with creating web apps using Asp.net. Soon I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
  * Now I am developing android apps mostly native and with phonegap with some extent at Vadodara.
- * Happy to completing 2 years in software industry.
+ * Happily completing 2 years in software industry.
 
  > Skills
 
@@ -43,6 +43,6 @@ Hello,<br/>
 
 > Intersted in my profile ?
 
-Download CV
+<a href="https://drive.google.com/file/d/0B0Nx9gcUX3czWkdjeDQ0b2F1dGM/view?usp=sharing" target="_blank">View My CV</a>
 
 Thanks for reading!
