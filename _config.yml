@@ -1,10 +1,10 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        /blog/:categories/:year/:month/:day/:title/
-relative_permalinks: true
+#relative_permalinks: true
 
 # Setup
 title:            Mohammadhussain Khatri
@@ -20,6 +20,8 @@ author:
 
 paginate:         10
 paginate_path: "/blog/page:num/"
+
+gems: [jekyll-paginate]
 
 github:
   profile:           https://github.com/mohammadkhatri
