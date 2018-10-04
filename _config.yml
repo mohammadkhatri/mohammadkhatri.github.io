@@ -10,7 +10,7 @@ permalink:        /blog/:categories/:year/:month/:day/:title/
 title:            Mohammadhussain Khatri
 tagline:          'Android + Web Developer'
 description:      'Software engineer and currently doing mobile apps developement with android.'
-url:              'http://mohammadkhatri.in'
+url:              'http://mohammadkhatri.in/'
 baseurl:          /
 username:		  mohammadkhatri
 
