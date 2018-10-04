@@ -9,7 +9,7 @@ sitemap:
 ---
 
 Hello,<br/>
-   I am Mohammadhussain Khatri [M.Sc (I.T)], A software engineer , An android enthusiast , A techie , A brother , A son and soon becoming a husband.
+   I am Mohammadhussain Khatri [M.Sc (I.T)], A software engineer , An android enthusiast , A techie , A brother , A husband , A son and soon becoming father (hopefully).
 
  > Info
 
@@ -18,14 +18,15 @@ Hello,<br/>
  > My Work
  
  * Currently , I work as a full time android developer and I love that.
- * I Started my career with creating web apps using Asp.net. Soon I started developing android apps at <a href="https://www.google.co.in/search?q=Mumbai" target="_blank">Mumbai</a>.
- * Now I am developing android apps mostly native and with phonegap with some extent at Vadodara.
- * Happily completing 2 years in software industry.
+ * I Started my career with creating web apps using Asp.net. Soon I started developing android apps.
+ * Now I am developing android apps mostly native and sometimes hybrid at Vadodara.
+ * Happily completing 5 years in software industry.
 
  > Skills
 
 *	ANDROID
 *	Core JAVA
+*   CPP
 *	HTML
 *	CSS
 *	JAVSCRIPT
@@ -43,6 +44,6 @@ Hello,<br/>
 
 > Intersted in my profile ?
 
-<a href="https://drive.google.com/file/d/0B0Nx9gcUX3czWkdjeDQ0b2F1dGM/view?usp=sharing" target="_blank">View My CV</a>
+<a href="https://drive.google.com/file/d/1RTTU9dP4LzMdBYks9I6K4GUhr3rkt1Jy/view?usp=sharing" target="_blank">View My CV</a>
 
 Thanks for reading!
