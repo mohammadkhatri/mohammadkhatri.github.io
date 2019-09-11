@@ -9,7 +9,7 @@ sitemap:
 ---
 
 Hello,<br/>
-   I am Mohammadhussain Khatri [M.Sc (I.T)], A software engineer , An android enthusiast , A techie , A brother , A husband , A son and soon becoming father (hopefully).
+   I am Mohammadhussain Khatri, A software engineer , An android enthusiast , A techie , A brother , A husband , A son and soon becoming father.
 
  > Info
 
