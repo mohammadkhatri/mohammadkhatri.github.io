@@ -5,7 +5,7 @@ description:  about me
 sitemap:
     priority: 1
     changefreq: 'daily'
-    lastmod: 2015-09-01T12:49:30-05:00
+    lastmod: 2019-19-11T10:20:30-05:00
 ---
 
 Hello,<br/>
@@ -19,31 +19,25 @@ Hello,<br/>
  
  * Currently , I work as a full time android developer and I love that.
  * I Started my career with creating web apps using Asp.net. Soon I started developing android apps.
- * Now I am developing android apps mostly native and sometimes hybrid at Vadodara.
- * Happily completing 5 years in software industry.
+ * Now I am developing android apps native and hybrid as well.
+ * Happily completing 6+ years in software industry.
 
  > Skills
 
 *	ANDROID
-*	Core JAVA
-*   CPP
+*	JAVA
+*   C++
+*   Kotlin
 *	HTML
 *	CSS
 *	JAVSCRIPT
 *	Core PHP
 *	Mysql
 *	Asp.Net
-*	MS_Sql_server
 
-
-> Interests
-
-* I like to learn new things everyday.
-* Waching movies , Listening music and in future want to learn playing guitar.
-* Travelling and photography
 
 > Intersted in my profile ?
 
-<a href="https://drive.google.com/file/d/1RTTU9dP4LzMdBYks9I6K4GUhr3rkt1Jy/view?usp=sharing" target="_blank">View My CV</a>
+<a href="https://drive.google.com/open?id=1Sw-kYlsXiNUeep3DcgvzxYOjLVcSHBgz" target="_blank">View My CV</a>
 
 Thanks for reading!
