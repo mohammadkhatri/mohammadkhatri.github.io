@@ -5,22 +5,22 @@ description:  about me
 sitemap:
     priority: 1
     changefreq: 'daily'
-    lastmod: 2019-19-11T10:20:30-05:00
+    lastmod: 2012-06-24T10:17:00-00:00
 ---
 
 Hello,<br/>
-   I am Mohammadhussain Khatri, A software engineer , An android enthusiast , A techie , A brother , A husband , A son and soon becoming father.
+   I am Mohammadhussain Khatri, A software engineer and currently developing amazing mobile applications.
 
  > Info
 
- I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. I have a family of 5 and I love them a lot. Being a software engineer , I create software applications for living.
+ I live in <a href="https://www.google.co.in/search?q=Dabhoi" target="_blank">Dabhoi</a> , a beautiful town nearby <a href="https://www.google.co.in/search?q=Vadodara" target="_blank">Vadodara</a>. Being a software engineer , I create software applications for living.
 
  > My Work
  
- * Currently , I work as a full time android developer and I love that.
+ * Currently , I work as a full time mobile application developer and I love that.
  * I Started my career with creating web apps using Asp.net. Soon I started developing android apps.
- * Now I am developing android apps native and hybrid as well.
- * Happily completing 6+ years in software industry.
+ * Now I am developing android apps with native and hybrid frameworks.
+ * Happily completing 9+ years in software industry.
 
  > Skills
 
@@ -28,12 +28,9 @@ Hello,<br/>
 *	JAVA
 *   C++
 *   Kotlin
-*	HTML
-*	CSS
 *	JAVSCRIPT
 *	Core PHP
 *	Mysql
-*	Asp.Net
 
 
 > Intersted in my profile ?
