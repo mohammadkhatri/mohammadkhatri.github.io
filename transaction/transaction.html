@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Transaction Details</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+      color: #333;
+    }
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background-color: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    th, td {
+      text-align: left;
+      padding: 12px;
+    }
+    th {
+      background-color: #f2f2f2;
+      font-weight: bold;
+    }
+    tr:nth-child(even) {
+      background-color: #f9f9f9;
+    }
+    .highlight {
+      background-color: #ffcc00;
+      color: #333;
+      font-weight: bold;
+    }
+    .logo {
+      display: block;
+      margin: 0 auto;
+      max-width: 200px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Transaction Details</h1>
+  <img src="panda-express.svg" alt="Panda Express Logo" class="logo">
+  <table>
+    <tr>
+      <th>Merchant</th>
+      <th>Item</th>
+      <th>Amount</th>
+    </tr>
+    <tr>
+      <td rowspan="1" class="highlight">Panda Express</td>
+      <td>Panda Cub Meal</td>
+      <td>$100.00</td>
+    </tr>
+  </table>
+
+  <script>
+    var today = new Date();
+    var date = today.toDateString();
+
+    var dateElement = document.createElement("p");
+    dateElement.innerHTML = "Date: " + date;
+    document.body.appendChild(dateElement);
+  </script>
+</body>
+</html>
